@@ -1,0 +1,36 @@
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\Trabalho1PCAdamMoulton\Trabalho1PCAdamMoulton\bin\Debug\Trabalho1PCAdamMoulton.exe.config
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\Trabalho1PCAdamMoulton\Trabalho1PCAdamMoulton\bin\Debug\Trabalho1PCAdamMoulton.exe
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\Trabalho1PCAdamMoulton\Trabalho1PCAdamMoulton\bin\Debug\Trabalho1PCAdamMoulton.pdb
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\Trabalho1PCAdamMoulton\Trabalho1PCAdamMoulton\obj\Debug\Trabalho1PCAdamMoulton.FormAguarde.resources
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\Trabalho1PCAdamMoulton\Trabalho1PCAdamMoulton\obj\Debug\Trabalho1PCAdamMoulton.FormPrincipal.resources
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\Trabalho1PCAdamMoulton\Trabalho1PCAdamMoulton\obj\Debug\Trabalho1PCAdamMoulton.Properties.Resources.resources
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\Trabalho1PCAdamMoulton\Trabalho1PCAdamMoulton\obj\Debug\Trabalho1PCAdamMoulton.csproj.GenerateResource.Cache
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\Trabalho1PCAdamMoulton\Trabalho1PCAdamMoulton\obj\Debug\Trabalho1PCAdamMoulton.exe
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\Trabalho1PCAdamMoulton\Trabalho1PCAdamMoulton\obj\Debug\Trabalho1PCAdamMoulton.pdb
+C:\Users\Pablo\Desktop\Trabalho1PC\Trabalho1PCAdamMoulton\bin\Debug\Trabalho1PCAdamMoulton.exe.config
+C:\Users\Pablo\Desktop\Trabalho1PC\Trabalho1PCAdamMoulton\bin\Debug\Trabalho1PCAdamMoulton.exe
+C:\Users\Pablo\Desktop\Trabalho1PC\Trabalho1PCAdamMoulton\bin\Debug\Trabalho1PCAdamMoulton.pdb
+C:\Users\Pablo\Desktop\Trabalho1PC\Trabalho1PCAdamMoulton\bin\Debug\mscorlib.dll
+C:\Users\Pablo\Desktop\Trabalho1PC\Trabalho1PCAdamMoulton\bin\Debug\pt-BR\mscorlib.resources.dll
+C:\Users\Pablo\Desktop\Trabalho1PC\Trabalho1PCAdamMoulton\bin\Debug\normidna.nlp
+C:\Users\Pablo\Desktop\Trabalho1PC\Trabalho1PCAdamMoulton\bin\Debug\normnfc.nlp
+C:\Users\Pablo\Desktop\Trabalho1PC\Trabalho1PCAdamMoulton\bin\Debug\normnfd.nlp
+C:\Users\Pablo\Desktop\Trabalho1PC\Trabalho1PCAdamMoulton\bin\Debug\normnfkc.nlp
+C:\Users\Pablo\Desktop\Trabalho1PC\Trabalho1PCAdamMoulton\bin\Debug\normnfkd.nlp
+C:\Users\Pablo\Desktop\Trabalho1PC\Trabalho1PCAdamMoulton\obj\Debug\Trabalho1PCAdamMoulton.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\Desktop\Trabalho1PC\Trabalho1PCAdamMoulton\obj\Debug\Trabalho1PCAdamMoulton.FormAguarde.resources
+C:\Users\Pablo\Desktop\Trabalho1PC\Trabalho1PCAdamMoulton\obj\Debug\Trabalho1PCAdamMoulton.FormPrincipal.resources
+C:\Users\Pablo\Desktop\Trabalho1PC\Trabalho1PCAdamMoulton\obj\Debug\Trabalho1PCAdamMoulton.Properties.Resources.resources
+C:\Users\Pablo\Desktop\Trabalho1PC\Trabalho1PCAdamMoulton\obj\Debug\Trabalho1PCAdamMoulton.csproj.GenerateResource.Cache
+C:\Users\Pablo\Desktop\Trabalho1PC\Trabalho1PCAdamMoulton\obj\Debug\Trabalho1PCAdamMoulton.exe
+C:\Users\Pablo\Desktop\Trabalho1PC\Trabalho1PCAdamMoulton\obj\Debug\Trabalho1PCAdamMoulton.pdb
+C:\Users\Pedro\Desktop\PC\Trabalho1PC\Trabalho1PCAdamMoulton\bin\Debug\Trabalho1PCAdamMoulton.exe.config
+C:\Users\Pedro\Desktop\PC\Trabalho1PC\Trabalho1PCAdamMoulton\obj\Debug\Trabalho1PCAdamMoulton.exe
+C:\Users\Pedro\Desktop\PC\Trabalho1PC\Trabalho1PCAdamMoulton\obj\Debug\Trabalho1PCAdamMoulton.pdb
+C:\Users\Pedro\Desktop\PC\Trabalho1PC\Trabalho1PCAdamMoulton\obj\Debug\Trabalho1PCAdamMoulton.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Desktop\PC\Trabalho1PC\Trabalho1PCAdamMoulton\obj\Debug\Trabalho1PCAdamMoulton.FormPrincipal.resources
+C:\Users\Pedro\Desktop\PC\Trabalho1PC\Trabalho1PCAdamMoulton\obj\Debug\Trabalho1PCAdamMoulton.Properties.Resources.resources
+C:\Users\Pedro\Desktop\PC\Trabalho1PC\Trabalho1PCAdamMoulton\obj\Debug\Trabalho1PCAdamMoulton.csproj.GenerateResource.Cache
+C:\Users\Pedro\Desktop\PC\Trabalho1PC\Trabalho1PCAdamMoulton\bin\Debug\Trabalho1PCAdamMoulton.exe
+C:\Users\Pedro\Desktop\PC\Trabalho1PC\Trabalho1PCAdamMoulton\bin\Debug\Trabalho1PCAdamMoulton.pdb
+C:\Users\Pedro\Desktop\PC\Trabalho1PC\Trabalho1PCAdamMoulton\obj\Debug\Trabalho1PCAdamMoulton.FormSobre.resources
